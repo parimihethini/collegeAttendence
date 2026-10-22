@@ -35,3 +35,9 @@ attendance/attendance/target/
 node_modules/
 dist/
 
+# Database backups
+attendance-backup.sql
+*.sql.bak
+
+# Java build output
+attendance/attendance/bin/
